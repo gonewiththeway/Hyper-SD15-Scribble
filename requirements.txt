@@ -1,0 +1,9 @@
+diffusers==0.25.0
+transformers==4.38.2
+accelerate==0.27.2
+https://gradio-builds.s3.amazonaws.com/befe1d7838ebbf2a5c201f18eec425c807268eb7/gradio-4.27.0-py3-none-any.whl
+flask
+pillow
+safetensors
+transformers==4.38.2
+torch==2.1.0
